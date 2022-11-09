@@ -47,24 +47,22 @@ a{
 }
 
 .Image1{
-  margin-right: 50px;
   position:fixed;
-  left:13vmin;
-  top:23vmin;
+  margin-left: 40%; /* very important for the image to be centered */
   font-size: 28px;
   padding-bottom:50px;
-  padding-top:50px;
+  padding-top:7%;
   color:rgb(231,232,244);
   transform: rotate(90deg)
 }
 
 .Body{
-  top:28vmin;
-  margin-right: 6vh;
-  margin-left: 80vh;
+  top: 66%;
+  margin-right: 34%;
+  margin-left: 35%; /* very important for the image to be centered */
   position: fixed;
-  font-size: 40px;
-  flex-wrap:nowrap;
+  font-size: 26px;
+  flex-wrap:wrap;
   padding-bottom:50px;
   padding-top:50px;
   color:rgb(231,232,244)
