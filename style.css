@@ -47,13 +47,11 @@ a{
 }
 
 .Image1{
-  margin-right: 34%;
+  margin-right: 50px;
   position:fixed;
-  margin-left: -800px; /* very important for the image to be centered */
-  left:50%;
-  top:170px;
+  left:13vmin;
+  top:23vmin;
   font-size: 28px;
-  flex-wrap:nowrap;
   padding-bottom:50px;
   padding-top:50px;
   color:rgb(231,232,244);
@@ -61,9 +59,9 @@ a{
 }
 
 .Body{
-  top: 220px;
-  margin-right: 175px;
-  margin-left: 875px;
+  top:28vmin;
+  margin-right: 6vh;
+  margin-left: 80vh;
   position: fixed;
   font-size: 40px;
   flex-wrap:nowrap;
@@ -72,3 +70,4 @@ a{
   color:rgb(231,232,244)
 
 }
+
