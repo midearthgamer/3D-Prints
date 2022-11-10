@@ -1,71 +1,70 @@
 *{
-    background-color:rgb(36,37,40);
+  background-color:rgb(36,37,40);
 }
 h1{
-    color:rgb(231,232,233);
-    background-color:rgb(16,17,18);
-    padding-left: 10px;
-    font-size: 65px;
+  color:rgb(231,232,233);
+  background-color:rgb(16,17,18);
+  padding-left: 10px;
+  font-size: 65px;
 }
 
 p{
-    color:rgb(231,232,233);
+  color:rgb(231,232,233);
 }
 
 h2{
-    color:rgb(231,232,233);
-    bottom:10070px;
+  color:rgb(231,232,233);
+  bottom:10070px;
 
 }
 
 a{
-  color:rgb(231,232,233)
+color:rgb(231,232,233)
 }
 
 .link-Button{
-  font-size: 20px;
-  justify-content: flex-start;
+font-size: 20px;
+justify-content: flex-start;
 }
 
 .Discord{
-  position:fixed;
-  margin-left: -250px; /* very important for the image to be centered */
-  left:260px;
-  bottom:0px;
-  opacity: 0.6;
-  font-size: 44px;
-  color:rgb(231,232,244)
+position:fixed;
+margin-left: -250px; /* very important for the image to be centered */
+left:260px;
+bottom:0px;
+opacity: 0.6;
+font-size: 44px;
+color:rgb(231,232,244)
 }
 
 .Discord:hover{
-  opacity: 1;
+opacity: 1;
 }
 
 *{
-    margin:0;
-    padding:0px;
+  margin:0;
+  padding:0px;
 }
 
 .Image1{
-  position:fixed;
-  margin-left: 40%; /* very important for the image to be centered */
-  font-size: 28px;
-  padding-bottom:50px;
-  padding-top:7%;
-  color:rgb(231,232,244);
-  transform: rotate(90deg)
+position:fixed;
+margin-left: 40%; /* very important for the image to be centered */
+font-size: 28px;
+padding-bottom:50px;
+padding-top:7%;
+color:rgb(231,232,244);
+transform: rotate(90deg)
 }
 
 .Body{
-  top: 66%;
-  margin-right: 34%;
-  margin-left: 35%; /* very important for the image to be centered */
-  position: fixed;
-  font-size: 26px;
-  flex-wrap:wrap;
-  padding-bottom:50px;
-  padding-top:50px;
-  color:rgb(231,232,244)
+margin-top:50vh;
+margin-right: 34%;
+margin-left: 35%; /* very important for the image to be centered */
+position: fixed;
+font-size: 26px;
+flex-wrap:wrap;
+padding-bottom:50px;
+padding-top:50px;
+color:rgb(231,232,244)
 
 }
-
